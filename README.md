@@ -10,9 +10,9 @@ This research advances target-based financial sentiment analysis (TBFSA) by eval
 | **Lexicon-Based Methods** | VADER, TextBlob |
 
 ## 📂 Dataset Discription
-The dataset contains financial news texts about major stock companies (Alphabet, Amazon, Netflix, Nvidia) collected from the Bloomberg Terminal. Each text was manually annotated by three annotators for:
-1.**Target Entity Identification**
-2. **Target-Specific Sentiment**
+The dataset contains financial news texts about major stock companies (Alphabet, Amazon, Netflix, Nvidia) collected from the Bloomberg Terminal. Each text was manually annotated by three annotators for:  
+1.**Target Entity Identification**  
+2. **Target-Specific Sentiment Labeling**  
 ### Dataset Structure:
 #### Format: CSV  
 #### Columns:  
