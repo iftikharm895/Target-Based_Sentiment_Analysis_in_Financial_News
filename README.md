@@ -7,10 +7,10 @@ This research advances target-based financial sentiment analysis (TBFSA) by eval
 |----------|--------|
 | **LLMs** | GPT-4, GPT-4o, GPT-o1, DeepSeek-R1, Llama-3-8B, Gemma-2-9B, Gemma-2-27B |
 | **Fine-Tune Transformer-Based Models** | FinBERT, FinBERT-Tone, DistilFinRoBERTa, DeBERTa v3-base-ABSA-V1.1 |
-| **Lexicon** | VADER, TextBlob |
+| **Lexicon-Based Methods** | VADER, TextBlob |
 
 ## 📂 Dataset Discription
-The dataset contains financial news articles about major stock companies (Alphabet, Amazon, Netflix, Nvidia) collected from the Bloomberg Terminal. Each article was manually annotated by three domain experts for:
+The dataset contains financial news texts about major stock companies (Alphabet, Amazon, Netflix, Nvidia) collected from the Bloomberg Terminal. Each text was manually annotated by three annotators for:
 1.**Target Entity Identification**
 2. **Target-Specific Sentiment**
 ### Dataset Structure:
@@ -22,7 +22,6 @@ o ID: Unique news article identifier
 o	Target: The stock company to which the sentiment analysis is directed 
 o	URL: The direct URL to the full news article  
 o	Manual: The manually assigned sentiment score (-1=Negative, 0=Neutral, +1=Positive) reflects the evaluated sentiment directed toward the target 
-
 **Source:** Bloomberg Terminal (September 4, 2023, to January 30, 2024)
 **Size:** 1,334 manually annotated news texts  
 **Targets:** Alphabet, Amazon, Netflix, Nvidia  
