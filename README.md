@@ -26,7 +26,8 @@ o	Manual: The manually assigned sentiment score (-1=Negative, 0=Neutral, +1=Posi
 **Targets:** Alphabet, Amazon, Netflix, Nvidia    
 **Annotation Quality:**  
 - Entity Identification: Krippendorff's α = 0.96  
-- Sentiment Labels: Krippendorff's α = 0.81  
+- Sentiment Labels: Krippendorff's α = 0.81
+  
 **Access Note:** Full text distribution restricted by copyright - URLs provided for reproducibility via Bloomberg Terminal access.
   
 ## Annotation Guidelines
