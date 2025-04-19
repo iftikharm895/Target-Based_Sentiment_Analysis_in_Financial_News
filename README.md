@@ -17,9 +17,9 @@ The dataset contains financial news articles about major stock companies (Alphab
 o	Publishing Date: Article publication date  
 o	Publishing Time: Article publication time  
 o ID: Unique news article identifier  
-o	Target: The stock company to which the sentiment analysis is directed   
-o	URL: The direct URL to the full news article  
-o	Manual: The manually assigned sentiment score (-1=Negative, 0=Neutral, +1=Positive) reflects the evaluated sentiment directed toward the target   
+o	Target: The company to which the sentiment analysis applies.   
+o	URL: The direct link to the full news article
+o	Manual: The manually assigned sentiment score (-1 = Negative, 0 = Neutral, +1 = Positive) reflects the evaluated sentiment toward the target.   
 
 **Source:** Bloomberg Terminal (September 4, 2023, to January 30, 2024)  
 **Size:** 1,334 manually annotated news texts    
