@@ -18,7 +18,7 @@ o	Publishing Date: Article publication date
 o	Publishing Time: Article publication time  
 o ID: Unique news article identifier  
 o	Target: The company to which the sentiment analysis applies.   
-o	URL: The direct link to the full news article
+o	URL: The direct link to the full news article  
 o	Manual: The manually assigned sentiment score (-1 = Negative, 0 = Neutral, +1 = Positive) reflects the evaluated sentiment toward the target.   
 
 **Source:** Bloomberg Terminal (September 4, 2023, to January 30, 2024)  
