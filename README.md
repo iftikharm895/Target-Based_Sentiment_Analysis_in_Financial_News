@@ -32,4 +32,4 @@ o	Manual: The manually assigned sentiment score (-1 = Negative, 0 = Neutral, +1 
 **Access Note:** Full text distribution restricted by copyright - URLs provided for reproducibility via Bloomberg Terminal access.
   
 ## 📝 Annotation Guidelines 
-The annotation process for target-based financial sentiment analysis—covering entity identification and target-specific sentiment labeling—followed detailed guidelines documented in Annotation_Guidelines.pdf.
+The annotation process for target-based financial sentiment analysis—covering entity identification and target-specific sentiment labeling—followed detailed guidelines documented in Annotation_Guidelines.docs.
