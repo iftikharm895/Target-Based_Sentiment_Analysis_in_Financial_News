@@ -1,4 +1,4 @@
-# Evaluating the Efficacy of Large Language Models for Target-Specific Sentiment Analysis and Stock Return Prediction
+# Benchmarking Large Language Models for Target-Based Financial Sentiment Analysis
 
 ## 📌 Project Overview
 This research advances target-based financial sentiment analysis (TBFSA) by evaluating Large Language Models (LLMs) in zero-shot / few-shot learning paradigms. We benchmark state-of-the-art LLMs against traditional approaches: 
